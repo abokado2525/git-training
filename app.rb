@@ -9,3 +9,6 @@ get '/okumura' do
   'Hello okumura!'
 end
 
+get '/abokado' do
+  'Hello abokado!!!'
+end
