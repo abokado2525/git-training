@@ -8,3 +8,11 @@ end
 get '/take' do
   'Hello take!!'
 end
+
+get '/naka' do
+  'Hello naka!'
+end
+
+get '/abokado' do
+  'Hello abokado!!!'
+end
