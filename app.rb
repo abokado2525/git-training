@@ -7,7 +7,7 @@ end
 
 get '/naka' do
   'Hello naka!'
-
+end
 
 get '/abokado' do
   'Hello abokado!!!'
