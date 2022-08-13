@@ -17,7 +17,13 @@ get '/abokado' do
   'Hello abokado!!!'
 end
 
+
 get '/noguchi' do
   'Hello noguchi!'
+end
+
+
+get '/hayashida' do
+  'Hello hayashida!'
 end
 
