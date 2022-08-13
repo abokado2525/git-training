@@ -5,6 +5,10 @@ get '/' do
   'Hello world!'
 end
 
+get '/naka' do
+  'Hello naka!'
+end
+
 get '/abokado' do
   'Hello abokado!!!'
 end
